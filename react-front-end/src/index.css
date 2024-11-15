@@ -1,0 +1,20 @@
+:root {
+  background-color: rgba(27, 20, 20, 0.89)
+  /* background-color: rgb(207, 167, 245); */
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  height: 700px;
+}
+
+div {
+  flex: 1;
+  height: 400px;
+}
+
+button{
+  margin-top: 20%;
+}
